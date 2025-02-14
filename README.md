@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Aurora_jingyim. My chinese name is 冯静怡.
-- 👀 I’m interested in bigdata and AI learning
-- 🌱 I’m currently a new learner of C and Python since I am going to major in Urban informatics and smart cities.
+- 👋 Hi, I’m @Aurora. My chinese name is 冯静怡.
+- 👀 I’m interested in point cloud and AI learning
 - 📫 How to reach me: anning24@gmail.com
 
 <!---
